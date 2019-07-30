@@ -46,7 +46,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9621b4e71b72330079c5ed3abc4bcb08</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Email Address Syntax Validate</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -54,8 +54,8 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_script_9621b4e71b72330079c5ed3abc4bcb08</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-29 06:33:49</sys_updated_on>
-        <template/>
+        <sys_updated_on>2019-07-30 05:47:29</sys_updated_on>
+        <template>u_requested_forDYNAMIC90d1921e5f510100a9ad2572f2b477fe^descriptionSAMEASshort_description^state=14^EQ</template>
         <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=9621b4e71b72330079c5ed3abc4bcb08"/>
