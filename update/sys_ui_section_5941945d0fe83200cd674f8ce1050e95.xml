@@ -228,16 +228,16 @@
             <form_field/>
             <height>300</height>
             <label>My Report</label>
-            <report display_value="">1667f8461b43330079c5ed3abc4bcb88</report>
-            <report_field>target</report_field>
-            <report_qual>Active=false</report_qual>
+            <report display_value="Problems Closed per Week">d5b16ca1d7030200eaae68150e6103bf</report>
+            <report_field>state</report_field>
+            <report_qual/>
             <section/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-08-07 03:06:51</sys_created_on>
             <sys_id>c8ea83aa1b03330079c5ed3abc4bcbbf</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_mod_count>23</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-07 03:15:13</sys_updated_on>
+            <sys_updated_on>2019-08-26 06:17:35</sys_updated_on>
         </sys_ui_chart>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
